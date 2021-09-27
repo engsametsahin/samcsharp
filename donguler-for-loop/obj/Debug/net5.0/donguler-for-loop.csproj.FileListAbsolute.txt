@@ -1,0 +1,16 @@
+C:\TEST\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.exe
+C:\TEST\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.deps.json
+C:\TEST\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.runtimeconfig.json
+C:\TEST\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.runtimeconfig.dev.json
+C:\TEST\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.dll
+C:\TEST\donguler-for-loop\bin\Debug\net5.0\ref\donguler-for-loop.dll
+C:\TEST\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.pdb
+C:\TEST\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.csproj.AssemblyReference.cache
+C:\TEST\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEST\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.AssemblyInfoInputs.cache
+C:\TEST\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.AssemblyInfo.cs
+C:\TEST\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.csproj.CoreCompileInputs.cache
+C:\TEST\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.dll
+C:\TEST\donguler-for-loop\obj\Debug\net5.0\ref\donguler-for-loop.dll
+C:\TEST\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.pdb
+C:\TEST\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.genruntimeconfig.cache
