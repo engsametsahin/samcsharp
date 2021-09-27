@@ -1,0 +1,16 @@
+C:\TEST\switch-case\bin\Debug\net5.0\switch-case.exe
+C:\TEST\switch-case\bin\Debug\net5.0\switch-case.deps.json
+C:\TEST\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.json
+C:\TEST\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.dev.json
+C:\TEST\switch-case\bin\Debug\net5.0\switch-case.dll
+C:\TEST\switch-case\bin\Debug\net5.0\ref\switch-case.dll
+C:\TEST\switch-case\bin\Debug\net5.0\switch-case.pdb
+C:\TEST\switch-case\obj\Debug\net5.0\switch-case.csproj.AssemblyReference.cache
+C:\TEST\switch-case\obj\Debug\net5.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEST\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfoInputs.cache
+C:\TEST\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfo.cs
+C:\TEST\switch-case\obj\Debug\net5.0\switch-case.csproj.CoreCompileInputs.cache
+C:\TEST\switch-case\obj\Debug\net5.0\switch-case.dll
+C:\TEST\switch-case\obj\Debug\net5.0\ref\switch-case.dll
+C:\TEST\switch-case\obj\Debug\net5.0\switch-case.pdb
+C:\TEST\switch-case\obj\Debug\net5.0\switch-case.genruntimeconfig.cache
