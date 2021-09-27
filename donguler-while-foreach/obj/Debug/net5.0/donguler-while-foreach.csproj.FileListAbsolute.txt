@@ -1,0 +1,16 @@
+C:\TEST\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.exe
+C:\TEST\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.deps.json
+C:\TEST\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.runtimeconfig.json
+C:\TEST\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.runtimeconfig.dev.json
+C:\TEST\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.dll
+C:\TEST\donguler-while-foreach\bin\Debug\net5.0\ref\donguler-while-foreach.dll
+C:\TEST\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.pdb
+C:\TEST\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.csproj.AssemblyReference.cache
+C:\TEST\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEST\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.AssemblyInfoInputs.cache
+C:\TEST\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.AssemblyInfo.cs
+C:\TEST\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.csproj.CoreCompileInputs.cache
+C:\TEST\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.dll
+C:\TEST\donguler-while-foreach\obj\Debug\net5.0\ref\donguler-while-foreach.dll
+C:\TEST\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.pdb
+C:\TEST\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.genruntimeconfig.cache
