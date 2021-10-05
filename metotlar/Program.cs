@@ -31,7 +31,7 @@ namespace metotlar
             //referans vermek
             int sonuc3 = ornek.RefArtirTopla(ref a,ref b);
             Console.WriteLine(sonuc3.ToString());
-
+            //maindeki a ve b değişkenini de değiştirdi.
             int sonuc4 = Topla(a,b);
             Console.WriteLine("referans sonrası değişen değerler toplama : " + sonuc4);
 
